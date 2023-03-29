@@ -1,0 +1,7 @@
+- Import and work with different kinds of Tableau
+- Bubble charts, geo-location charts and others.
+- Dashoards
+- Storyboarding
+- Presentations
+- Data Manipulation
+- 
