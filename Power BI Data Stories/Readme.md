@@ -1,0 +1,5 @@
+- Loading and eastablishing data relationships
+- Different data types of charts and dashboards
+- Map visualizations and advanced charts with drill down functionalities
+- Power query
+- DAX expressions
